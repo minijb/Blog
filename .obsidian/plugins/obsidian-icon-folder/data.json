@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiTicketCheck",
+      "LiSquareKanban",
+      "LiProjector",
+      "LiBriefcaseConveyorBelt",
+      "LiAlignEndVertical"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "5_KowledgeBase": "LiCpu",
+  "4_WorkFlows": "LiAccessibility",
+  "4_WorkFlows/Recourse": "LiPackage",
+  "2_TechStack/Unity相关/帧同步": "LiNetwork",
+  "2_TechStack/Unity相关/KCP": "LiGitCompareArrows",
+  "2_TechStack/Unity相关/日志系统": "LiLogs",
+  "2_TechStack/Unity相关/编辑器拓展": "LiAirplay",
+  "2_TechStack/Unity相关/luban": "🌟",
+  "2_TechStack/Unity相关/Unity项目结构": "LiProportions",
+  "2_TechStack/Unity相关/Unitask": "🧵",
+  "4_WorkFlows/NoteTake": "LiNotebook",
+  "1_Projects/Vscode": "LiAlignEndVertical",
+  "3_References": "LiBriefcaseConveyorBelt",
+  "1_Projects": "LiProjector",
+  "0_Areas": "LiSquareKanban",
+  "2_TechStack": "LiTicketCheck"
+}
